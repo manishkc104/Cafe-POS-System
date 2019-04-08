@@ -1,0 +1,10 @@
+D:\C#_Practice_Project\Cafe Management System Windows Form\CS_Cafe_Management_Systems\CS_Cafe_Management_Systems\bin\Debug\CS_Cafe_Management_Systems.exe.config
+D:\C#_Practice_Project\Cafe Management System Windows Form\CS_Cafe_Management_Systems\CS_Cafe_Management_Systems\bin\Debug\CS_Cafe_Management_Systems.exe
+D:\C#_Practice_Project\Cafe Management System Windows Form\CS_Cafe_Management_Systems\CS_Cafe_Management_Systems\bin\Debug\CS_Cafe_Management_Systems.pdb
+D:\C#_Practice_Project\Cafe Management System Windows Form\CS_Cafe_Management_Systems\CS_Cafe_Management_Systems\obj\Debug\CS_Cafe_Management_Systems.csprojResolveAssemblyReference.cache
+D:\C#_Practice_Project\Cafe Management System Windows Form\CS_Cafe_Management_Systems\CS_Cafe_Management_Systems\obj\Debug\CS_Cafe_Management_Systems.Form1.resources
+D:\C#_Practice_Project\Cafe Management System Windows Form\CS_Cafe_Management_Systems\CS_Cafe_Management_Systems\obj\Debug\CS_Cafe_Management_Systems.Properties.Resources.resources
+D:\C#_Practice_Project\Cafe Management System Windows Form\CS_Cafe_Management_Systems\CS_Cafe_Management_Systems\obj\Debug\CS_Cafe_Management_Systems.csproj.GenerateResource.cache
+D:\C#_Practice_Project\Cafe Management System Windows Form\CS_Cafe_Management_Systems\CS_Cafe_Management_Systems\obj\Debug\CS_Cafe_Management_Systems.csproj.CoreCompileInputs.cache
+D:\C#_Practice_Project\Cafe Management System Windows Form\CS_Cafe_Management_Systems\CS_Cafe_Management_Systems\obj\Debug\CS_Cafe_Management_Systems.exe
+D:\C#_Practice_Project\Cafe Management System Windows Form\CS_Cafe_Management_Systems\CS_Cafe_Management_Systems\obj\Debug\CS_Cafe_Management_Systems.pdb
